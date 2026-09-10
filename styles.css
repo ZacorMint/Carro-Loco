@@ -147,8 +147,6 @@ section {
   color: var(--ink); 
 }
 
-/* ---------- Notas del laboratorio ---------- */
-
 .notes {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -175,7 +173,6 @@ section {
   line-height: 1.45;
 }
 
-/* ---------- Responsive ---------- */
 
 @media (max-width: 680px) {
   .hero-inner { 
